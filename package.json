@@ -72,7 +72,7 @@
     "minimatch": "^3.0.3",
     "mocha": "^3.1.0",
     "mockjs": "^1.0.1-beta3",
-    "node-sass": "^3.10.1",
+    "node-sass": "^4.11.0",
     "opn": "^4.0.2",
     "optimist": "^0.6.1",
     "ora": "^0.3.0",
